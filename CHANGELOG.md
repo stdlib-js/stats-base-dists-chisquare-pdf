@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-18)
+## Unreleased (2025-05-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2e9da74`](https://github.com/stdlib-js/stdlib/commit/2e9da74a9f19a2090b8405b54553baa7fb715c27) - **docs:** replace manual `for` loop in examples [(#7056)](https://github.com/stdlib-js/stdlib/pull/7056) _(by Harsh)_
 -   [`4a896f3`](https://github.com/stdlib-js/stdlib/commit/4a896f34e9a1bd41102d45f4de71992ce85fab5f) - **bench:** update random value generation [(#7027)](https://github.com/stdlib-js/stdlib/pull/7027) _(by Harsh)_
 -   [`02b9077`](https://github.com/stdlib-js/stdlib/commit/02b907765ad6a6ebcc884f16f2128475ab866814) - **bench:** refactor random number generation in `stats/base/dists/chisquare` [(#4860)](https://github.com/stdlib-js/stdlib/pull/4860) _(by Karan Anand)_
 
