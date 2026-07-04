@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-07-04)
+
+<section class="features">
+
+### Features
+
+-   [`10e10b8`](https://github.com/stdlib-js/stdlib/commit/10e10b8c25e44a1807bc3fef189570c11218433c) - add C implementation for `stats/base/dists/chisquare/pdf` [(#11634)](https://github.com/stdlib-js/stdlib/pull/11634)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`10e10b8`](https://github.com/stdlib-js/stdlib/commit/10e10b8c25e44a1807bc3fef189570c11218433c) - **feat:** add C implementation for `stats/base/dists/chisquare/pdf` [(#11634)](https://github.com/stdlib-js/stdlib/pull/11634) _(by Kamal Singh Rautela, Neeraj Pathak, Philipp Burckhardt)_
 -   [`12c2cee`](https://github.com/stdlib-js/stdlib/commit/12c2cee21de81594436e583fc379339cf5ac89c1) - **bench:** refactor to use string interpolation in `stats/base/dists/chisquare` [(#10325)](https://github.com/stdlib-js/stdlib/pull/10325) _(by Vishal Gaikwad)_
 
 </details>
@@ -24,8 +35,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Kamal Singh Rautela
+-   Neeraj Pathak
+-   Philipp Burckhardt
 -   Vishal Gaikwad
 
 </section>
