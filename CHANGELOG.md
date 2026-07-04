@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`202e91c`](https://github.com/stdlib-js/stdlib/commit/202e91c2dcf434f065d94866e076fdb5a7aa36a7) - **bench:** fix description _(by Athan Reines)_
 -   [`10e10b8`](https://github.com/stdlib-js/stdlib/commit/10e10b8c25e44a1807bc3fef189570c11218433c) - **feat:** add C implementation for `stats/base/dists/chisquare/pdf` [(#11634)](https://github.com/stdlib-js/stdlib/pull/11634) _(by Kamal Singh Rautela, Neeraj Pathak, Philipp Burckhardt)_
 -   [`12c2cee`](https://github.com/stdlib-js/stdlib/commit/12c2cee21de81594436e583fc379339cf5ac89c1) - **bench:** refactor to use string interpolation in `stats/base/dists/chisquare` [(#10325)](https://github.com/stdlib-js/stdlib/pull/10325) _(by Vishal Gaikwad)_
 
@@ -35,8 +36,9 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Kamal Singh Rautela
 -   Neeraj Pathak
 -   Philipp Burckhardt
